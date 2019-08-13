@@ -6,3 +6,6 @@ https://inloop.github.io/interpolator/
 ### 2.阿里巴巴矢量图
 https://www.iconfont.cn
 
+### 3.Android Gradle Plugin官方文档
+https://google.github.io/android-gradle-dsl/current/
+
