@@ -36,3 +36,6 @@ https://github.com/davemorrissey/subsampling-scale-image-view/
 
 ### 7.Android模糊层
 https://github.com/mmin18/RealtimeBlurView
+
+### 8.Android悬浮窗适配
+https://github.com/zhaozepeng/FloatWindowPermission
