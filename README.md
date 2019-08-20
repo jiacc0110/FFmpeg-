@@ -39,3 +39,6 @@ https://github.com/mmin18/RealtimeBlurView
 
 ### 8.Android悬浮窗适配
 https://github.com/zhaozepeng/FloatWindowPermission
+
+### 9.可以编辑class字节码的工具
+http://set.ee/jbe/
