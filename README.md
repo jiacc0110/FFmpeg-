@@ -48,3 +48,6 @@ https://gitlab.ow2.org/asm/asmdex
 
 ### 11.MeterialDesign风格的滑动入门级
 https://www.jianshu.com/p/4a77ae4cd82f
+
+### 12.Android优秀框架整理
+https://blog.csdn.net/huangxiaoguo1/article/details/79032186
